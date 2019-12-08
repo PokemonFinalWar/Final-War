@@ -2,6 +2,7 @@ TODOS
 - Edit our versions so that they code better like trashman frank
 - Remove the move curse somehow...
 - Shiny starter
+- Woo
 
 
 NEXT ADDITIONS
