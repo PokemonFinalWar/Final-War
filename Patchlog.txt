@@ -1,0 +1,18 @@
+PATCHLOG
+
+PATCH 1.0
+12/7/19
+Assuming patches before were PBE patches, patch 1.0 Currently contains:
+2 Gyms (You can pick which to do first and the other will be harder afterwards)
+6 Overworld Areas  (Towns, Routes, etc.)
+11 Separate Areas  (Pokecenters, Houses, etc.)
+8 Encounter Areas (Grasses/areas with different wild pokemon)
+30 Trainers 
+
+Features:
+Pokecenters
+Pokemarts
+Findable items
+Unlockable areas
+Scaling gyms
+Eggs

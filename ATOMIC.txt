@@ -1,0 +1,27 @@
+ATOMIC type
+
+Super Effective Against
+-Fighting
+-Normal
+-Poison
+
+WEAK to
+-Grass
+-Ice
+-Steel
+
+IMMUNE to
+-Atomic
+
+RESISTANT to
+-Fire
+-Fighting
+-Normal
+-Poison
+
+RESISTANT to ATOMIC
+-Bug
+-Dark
+-Steel
+-Ice
+-Ground

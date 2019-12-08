@@ -1,0 +1,92 @@
+TODOS
+- Edit our versions so that they code better like trashman frank
+- Remove the move curse somehow...
+- Shiny starter
+
+
+NEXT ADDITIONS
+- Cave based on pokemon episode (aerodactyl, kabutops, etc)
+- Anarchist City
+
+
+TRAINERS TO ADD
+- Camses Forms
+- Frey (Eeveelutions?/ask)
+- Stacey (Bears)
+- Angel (ask?)
+- Devon (ask)
+- Kooper (ask)
+
+BUSYWORK
+- Custom sprites for trainers
+
+
+THINGS TO THINK ABOUT
+- Where to put the route to the next 3 cities
+- Daycare
+- Legendary 3
+
+
+FUTURE THINGS PLANNED
+- Legendary 3 Creation
+- Atomic type Creation
+- Each of our Evos/Split Evos
+- Deserving Fakemon (Dunsparce)
+- Atomic type current pokes (Fossil-types/Groudon)
+
+
+BUGS
+- Following pokemon spam CTL during pokecenter healing
+- Following pokemon On, Faint, pokemon center
+- Went to options (before picking pokemon)
+- Deino vs. wild shellder, lags heavily
+
+
+GYMS
+- Dark/Fire		Anarchist		Bentu
+- Normal/Psychic	Idol			Chihaya
+- x
+
+- Water/Ice		Juvia/Gray		Juvia/Gray
+- x
+- x
+
+- Grass/Ghost		Halloween?		Camses
+- Water/Steel		Knight-theme		Merlin
+- Fire/Ice		Todorokyo		Chance
+
+- Dragon/Electric	King Ghidorah		?
+- Bug/Fire		Mothra			Me
+- Atomic/Dark		Godzilla		?
+
+
+Normal        
+Fighting   
+Flying        
+Poison      
+Ground    
+Rock    
+Bug       I
+Ghost     I
+Steel     I
+Fire      III
+Water     III
+Grass     I
+Electric  II
+Psychic    
+Ice       II
+Dragon    I
+Dark      II
+Atomic	  I  
+
+Normal / Fighting / Flying / Poison / Ground / Psychic
+
+
+Avatar     (Water /Ground(rock) / Fire / Flying)
+Konan     (flying / psychic)
+Pein    (psychic steel)
+Megumin    (psychic / fire)
+Darkness    (fighting / normal)
+Diane        (ground / fighting)
+Nezuko    (dark / fire)
+Psychic    Akko
